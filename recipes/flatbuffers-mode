@@ -1,1 +1,1 @@
-(flatbuffers-mode :fetcher github :repo "Asalle/flatbuffers-mode")
+(flatbuffers-mode :fetcher github :repo "alexmurray/flatbuffers-mode")
